@@ -27,11 +27,11 @@ main .personagem .imagem {
         flex-direction: row;
         align-items: flex-end;
         width: 100%;
-        padding: 30px;
+        padding: 90px;
         }
 
         .botoes .botao img {
-            max-width: 30px;
+            max-width: 60px;
             }
 }
 
